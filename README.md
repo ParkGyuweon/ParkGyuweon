@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=0:83EAF1,100:63A4FF&height=180&section=header&text=Gyuweon%20Park&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer&descSize=20&descAlignY=75)
 
-<div align="center">
-  <img src="./assets/profile.png" width="600" alt="profile visual"/>
-</div>
+### 🎧 Now Playing
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3126pwubvrd24qcvamrmxlcv4vfq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)&cover_image=true&theme=spotify-embed&background_color=63A4FF&border_radius=15&bar_color=83EAF1&bar_color_cover=true)](https://open.spotify.com/user/본인UID)
 
 ### 👋 About Me
 
