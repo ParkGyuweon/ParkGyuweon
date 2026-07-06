@@ -2,7 +2,7 @@
 
 ### 🎧 Now Playing
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3126pwubvrd24qcvamrmxlcv4vfq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)&cover_image=true&theme=spotify-embed&background_color=63A4FF&border_radius=15&bar_color=83EAF1&bar_color_cover=true)](https://open.spotify.com/user/본인UID)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3126pwubvrd24qcvamrmxlcv4vfq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=light)](https://github.com/kittinan/spotify-github-profile)
 
 ### 👋 About Me
 
