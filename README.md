@@ -1,16 +1,50 @@
-![header](https://capsule-render.vercel.app/api?type=venom)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:83EAF1,100:63A4FF&height=180&section=header&text=Gyuweon%20Park&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer&descSize=20&descAlignY=75)
 
-<!--
-**ParkGyuweon/ParkGyuweon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="./assets/profile.png" width="600" alt="profile visual"/>
+</div>
 
-Here are some ideas to get you started:
+### 👋 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend developer aspirant with hands-on experience in **Django REST Framework** and **Vue.js**.  
+Currently building full-stack projects with authentication, CRUD APIs, and data visualization.
+
+- 🔭 Focus: **Backend architecture, API design, database modeling**
+- 🌱 Learning: System design, DevOps fundamentals
+- 📫 Contact: your-email@example.com
+- 💼 LinkedIn: [linkedin.com/in/gyuweon-park](#)
+
+---
+
+### 🛠 Tech Stack
+
+**Backend**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white)
+
+**Frontend**  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Database & Tools**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=본인계정&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=63A4FF&icon_color=63A4FF" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인계정&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=63A4FF" height="160"/>
+</div>
+
+---
+
+### 📌 Featured Projects
+
+- **[Pet Adoption Financial Dashboard](#)** — Data visualization team project (Vue.js + DRF)
+- **[Personal Blog System](#)** — Full CRUD with JWT authentication (Vue.js + DRF)
+
+![footer](https://capsule-render.vercel.app/api?type=soft&color=0:63A4FF,100:83EAF1&height=100&section=footer&reversal=true)
