@@ -36,8 +36,8 @@ Currently building full-stack projects with authentication, CRUD APIs, and data 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-g9rr6mg67-galchi300s-projects.vercel.app/api?username=ParkGyuweon&show_icons=true&theme=default&hide_border=true&title_color=63A4FF&icon_color=63A4FF&text_color=333333&bg_color=FFFFFF&count_private=true&v=1" height="165"/>
-  <img src="https://github-readme-stats-g9rr6mg67-galchi300s-projects.vercel.app/api/top-langs/?username=ParkGyuweon&layout=compact&theme=default&hide_border=true&title_color=63A4FF&text_color=333333&bg_color=FFFFFF&v=1" height="165"/>
+  <img src="https://github-readme-stats-seven-theta-56.vercel.app/api?username=ParkGyuweon&show_icons=true&theme=default&hide_border=true&title_color=63A4FF&icon_color=63A4FF&text_color=333333&bg_color=FFFFFF&count_private=true&v=1" height="165"/>
+  <img src="https://github-readme-stats-seven-theta-56.vercel.app/api/top-langs/?username=ParkGyuweon&layout=compact&theme=default&hide_border=true&title_color=63A4FF&text_color=333333&bg_color=FFFFFF&v=1" height="165"/>
 </div>
 
 ---
