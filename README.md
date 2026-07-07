@@ -6,29 +6,28 @@
 
 ### 👋 About Me
 
-Backend developer aspirant with hands-on experience in **Django REST Framework** and **Vue.js**.  
-Currently building full-stack projects with authentication, CRUD APIs, and data visualization.
+I am a Backend Developer and AX (AI eXperience) enthusiast aiming to enhance user convenience through seamless and intelligent system design. Double majoring in Biochemistry and Computer Science at Yonsei University, I combine analytical problem-solving with robust software engineering.
 
-- 🔭 Focus: **Backend architecture, API design, database modeling**
-- 🌱 Learning: System design, DevOps fundamentals
+- 🔭 Focus: **Backend Architecture, AX (AI eXperience), Database Modeling**
+- 🌱 Learning: System design, DevOps fundamentals, AI-driven data pipelines
 - 📫 Contact: rbdnjs9@gmail.com / rbdnjs7034@naver.com
 - 💼 LinkedIn: [https://www.linkedin.com/in/gyuweon-park/](#)
 
----
-
 ### 🛠 Tech Stack
 
-**Backend**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white)
-
-**Frontend**  
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+**Languages & Core** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Database & Tools**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+**Backend & Frameworks** ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white)
+
+**Frontend** ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+
+**Database, OS & Tools** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
@@ -46,7 +45,15 @@ Currently building full-stack projects with authentication, CRUD APIs, and data 
 
 ### 📌 Featured Projects
 
-- **[Pet Adoption Financial Dashboard](#)** — Data visualization team project (Vue.js + DRF)
-- **[Personal Blog System](#)** — Full CRUD with JWT authentication (Vue.js + DRF)
+- **[AI-based Pet Recommendation & Community](#)**
+  A comprehensive platform providing AI-driven pet recommendations and community features, built using Django and Vue.js (CDN integration).
+- **[Multi-threaded HTTP Proxy Server](#)**
+  Implemented a concurrent HTTP proxy server using Python socket programming, featuring robust multi-client handling and URL/image filtering logic.
+- **[Linux Kernel & xv6 OS Extension](#)**
+  Developed a Linux kernel module to trace virtual-to-physical address translations. Extended the xv6 OS by implementing an EEVDF CPU scheduler and expanding on-disk file system structures.
+- **[CUDA & Triton GPU Programming](#)**
+  Optimized parallel computing workloads (conv2d, parallel softmax) using CUDA. Conducted comparative performance analysis between Triton and cuDNN to identify hardware bottlenecks.
+- **[scVI Probabilistic Model Analysis (Undergrad Research)](#)**
+  Analyzed the architecture and mathematical algorithms of the scVI deep learning model for noise correction in single-cell RNA sequencing data.
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=0:63A4FF,100:83EAF1&height=100&section=footer&reversal=true)
