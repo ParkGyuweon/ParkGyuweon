@@ -1,8 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:83EAF1,100:63A4FF&height=300&section=header&text=Gyuweon%20Park&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer&descSize=20&descAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:83EAF1,100:63A4FF&height=300&section=header&text=Gyuweon%20Park&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20%26%20AX%20Enthusiast&descSize=20&descAlignY=30)
 
 ### 🎧 Now Playing
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3126pwubvrd24qcvamrmxlcv4vfq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=light)](https://github.com/kittinan/spotify-github-profile)
+
+---
 
 ### 👋 About Me
 
@@ -12,6 +14,8 @@ I am a Backend Developer and AX (AI eXperience) enthusiast aiming to enhance use
 - 🌱 Learning: System design, DevOps fundamentals, AI-driven data pipelines
 - 📫 Contact: rbdnjs9@gmail.com / rbdnjs7034@naver.com
 - 💼 LinkedIn: [https://www.linkedin.com/in/gyuweon-park/](#)
+
+---
 
 ### 🛠 Tech Stack
 
@@ -43,6 +47,15 @@ I am a Backend Developer and AX (AI eXperience) enthusiast aiming to enhance use
 
 ---
 
+### 📜 Certificates & Algorithm
+
+- **2026.05.** SQL 개발자(SQLD) - 한국데이터산업진흥원
+- **2026.04.** 삼성 SW 역량테스트 A+ - 삼성전자
+- **2025.09.** OPIc(English) IM2 - ACTFL
+- **2025.08.** TOEIC 855 - YBM
+
+---
+
 ### 📌 Featured Projects
 
 - **[AI-based Pet Recommendation & Community](#)**
@@ -56,4 +69,4 @@ I am a Backend Developer and AX (AI eXperience) enthusiast aiming to enhance use
 - **[scVI Probabilistic Model Analysis (Undergrad Research)](#)**
   Analyzed the architecture and mathematical algorithms of the scVI deep learning model for noise correction in single-cell RNA sequencing data.
 
-![footer](https://capsule-render.vercel.app/api?type=soft&color=0:63A4FF,100:83EAF1&height=100&section=footer&reversal=true)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=0:63A4FF,100:83EAF1&width=100%&height=100&section=footer&reversal=true)
