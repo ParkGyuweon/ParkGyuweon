@@ -12,7 +12,7 @@ Currently building full-stack projects with authentication, CRUD APIs, and data 
 - 🔭 Focus: **Backend architecture, API design, database modeling**
 - 🌱 Learning: System design, DevOps fundamentals
 - 📫 Contact: rbdnjs9@gmail.com / rbdnjs7034@naver.com
-- 💼 LinkedIn: [linkedin.com/in/gyuweon-park](#)
+- 💼 LinkedIn: [https://www.linkedin.com/in/gyuweon-park/](#)
 
 ---
 
