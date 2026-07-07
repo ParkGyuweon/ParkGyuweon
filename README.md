@@ -48,7 +48,7 @@ Currently building full-stack projects with authentication, CRUD APIs, and data 
 
 ### 🧩 Algorithm
 
-<div align="center">
+<div>
   <a href="https://solved.ac/rbdnjs7034">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rbdnjs7034" alt="Solved.ac Profile" />
   </a>
