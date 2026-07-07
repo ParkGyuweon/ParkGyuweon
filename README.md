@@ -33,18 +33,10 @@ Currently building full-stack projects with authentication, CRUD APIs, and data 
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats
 
 <div align="center">
   <img src="https://github-readme-stats-seven-theta-56.vercel.app/api?username=ParkGyuweon&show_icons=true&theme=default&hide_border=true&title_color=63A4FF&icon_color=63A4FF&text_color=333333&bg_color=FFFFFF&count_private=true&v=1" height="165"/>
-  <img src="https://github-readme-stats-seven-theta-56.vercel.app/api/top-langs/?username=ParkGyuweon&layout=compact&theme=default&hide_border=true&title_color=63A4FF&text_color=333333&bg_color=FFFFFF&v=1" height="165"/>
-</div>
-
----
-
-### 🧩 Algorithm
-
-<div>
   <a href="https://solved.ac/rbdnjs7034">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rbdnjs7034" alt="Solved.ac Profile" />
   </a>
