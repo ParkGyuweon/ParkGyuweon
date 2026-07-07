@@ -36,13 +36,19 @@ Currently building full-stack projects with authentication, CRUD APIs, and data 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParkGyuweon&show_icons=true&theme=default&hide_border=true&title_color=63A4FF&icon_color=63A4FF&text_color=333333&bg_color=FFFFFF" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkGyuweon&layout=compact&theme=default&hide_border=true&title_color=63A4FF&text_color=333333&bg_color=FFFFFF" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rbdnjs9@gmail.com&show_icons=true&theme=default&hide_border=true&title_color=63A4FF&icon_color=63A4FF&text_color=333333&bg_color=FFFFFF" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbdnjs9@gmail.com&layout=compact&theme=default&hide_border=true&title_color=63A4FF&text_color=333333&bg_color=FFFFFF" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ParkGyuweon&theme=default&hide_border=true&ring=63A4FF&fire=83EAF1&currStreakLabel=63A4FF" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=rbdnjs9@gmail.com&theme=default&hide_border=true&ring=63A4FF&fire=83EAF1&currStreakLabel=63A4FF" height="165"/>
 </div>
+
+---
+
+### 🧩 Algorithm
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rbdnjs7034)](https://solved.ac/rbdnjs7034)
 
 ---
 
