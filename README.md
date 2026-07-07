@@ -36,12 +36,12 @@ Currently building full-stack projects with authentication, CRUD APIs, and data 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PargkGyuweon&show_icons=true&theme=default&hide_border=true&title_color=63A4FF&icon_color=63A4FF&text_color=333333&bg_color=FFFFFF" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ParkGyuweon&show_icons=true&theme=default&hide_border=true&title_color=63A4FF&icon_color=63A4FF&text_color=333333&bg_color=FFFFFF" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkGyuweon&layout=compact&theme=default&hide_border=true&title_color=63A4FF&text_color=333333&bg_color=FFFFFF" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=본인계정&theme=default&hide_border=true&ring=63A4FF&fire=83EAF1&currStreakLabel=63A4FF" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=ParkGyuweon&theme=default&hide_border=true&ring=63A4FF&fire=83EAF1&currStreakLabel=63A4FF" height="165"/>
 </div>
 
 ---
