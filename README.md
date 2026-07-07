@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:83EAF1,100:63A4FF&height=300&section=header&text=Gyuweon%20Park&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20%26%20AX%20Enthusiast&descSize=20&descAlignY=30&v=1)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:83EAF1,100:63A4FF&height=300&section=header&text=Gyuweon%20Park&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20and%20AX%20Enthusiast&descSize=20&descAlignY=30)
 
 ### 🎧 Now Playing
 
