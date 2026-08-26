@@ -49,10 +49,10 @@ I am a Backend Developer and AX (AI eXperience) enthusiast aiming to enhance use
 
 ### 📜 Certificates & Algorithm
 
-- **2026.05.** SQL 개발자(SQLD) - 한국데이터산업진흥원
-- **2026.04.** 삼성 SW 역량테스트 A+ - 삼성전자
-- **2025.09.** OPIc(English) IM2 - ACTFL
-- **2025.08.** TOEIC 855 - YBM
+- **2026.05.** SQL 개발자(SQLD)
+- **2026.04.** 삼성 SW 역량테스트 A+
+- **2025.09.** OPIc(English) IM2
+- **2025.08.** TOEIC 855
 
 ---
 
