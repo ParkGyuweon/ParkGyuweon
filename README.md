@@ -81,9 +81,6 @@ Double majoring in Biochemistry and Computer Science at Yonsei University, I com
 - **[bbanggeut — Motion Recognition & AI Diary Care Service](https://github.com/ParkGyuweon/bbanggeut)**
   Led frontend implementation and frontend-backend integration for a child care service combining motion-recognition games, character conversation, child diary generation, and parent reports using React, TypeScript, MediaPipe, Spring Boot, FastAPI, Redis, Docker, Jenkins, AWS, and Grafana.
 
-- **[muplay_recommendation_service — Musical & Theater Recommendation](https://github.com/ParkGyuweon/muplay_recommendation_service)**
-  Designed a personalized performance recommendation service using user taste, current booking data, synopsis data, and audience-review sources from booking platforms, blogs, and social channels.
-
 - **[DB Study](https://github.com/ParkGyuweon/DB)**
   Practiced SQL querying, aggregation, joins, transactions, and Django ORM relationship modeling across 1:N, M:N, ownership, likes, follows, subscriptions, orders, and event participation.
 
