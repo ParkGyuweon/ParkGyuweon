@@ -1,26 +1,34 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:83EAF1,100:63A4FF&height=300&section=header&text=Gyuweon%20Park&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Data%20Engineering%20%7C%20AX%20%7C%20AI-powered%20Services&descSize=20&descAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:83EAF1,100:63A4FF&height=300&section=header&text=Gyuweon%20Park&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=%3E_%20Data%20Engineering%20%7C%20AX%20%7C%20AI-powered%20Services&descSize=20&descAlignY=30)
 
-### 🎧 Now Playing
+<p align="center">
+  <img src="https://img.shields.io/badge/%3E__data_flows-63A4FF?style=for-the-badge&labelColor=1B2A4A&color=63A4FF" />
+  <img src="https://img.shields.io/badge/%5BAX%5D_AI_experience-83EAF1?style=for-the-badge&labelColor=1B2A4A&color=83EAF1" />
+  <img src="https://img.shields.io/badge/ship_small_useful_things-4F8CFF?style=for-the-badge&labelColor=1B2A4A&color=4F8CFF" />
+</p>
+
+<p align="center"><code>▣ ▣ ▣  build data flows · design AI experiences · keep learning  ▣ ▣ ▣</code></p>
+
+### >_ Now Playing
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3126pwubvrd24qcvamrmxlcv4vfq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=light)](https://github.com/kittinan/spotify-github-profile)
 
----
+<p align="center"><code>◆◇◆</code></p>
 
-### 👋 About Me
+### >_ About Me
 
 I am a developer interested in **Data Engineering and AX (AI eXperience)**.  
 I like turning raw data, user behavior, and product context into reliable data flows, recommendation logic, and AI-powered user experiences.
 
 Double majoring in Biochemistry and Computer Science at Yonsei University, I combine analytical problem-solving with practical software engineering.
 
-- 🔭 Focus: **Data Engineering, AX, Data Modeling, Recommendation Systems**
-- 🌱 Learning: Distributed data processing, analytics pipelines, system design, AI-driven product workflows
-- 📫 Contact: rbdnjs9@gmail.com / rbdnjs7034@naver.com
-- 💼 LinkedIn: [https://www.linkedin.com/in/gyuweon-park/](#)
+- `focus` **Data Engineering, AX, Data Modeling, Recommendation Systems**
+- `learning` Distributed data processing, analytics pipelines, system design, AI-driven product workflows
+- `contact` rbdnjs9@gmail.com / rbdnjs7034@naver.com
+- `linkedin` [https://www.linkedin.com/in/gyuweon-park/](#)
 
----
+<p align="center"><code>◆◇◆</code></p>
 
-### 🧭 What I Build Toward
+### >_ What I Build Toward
 
 - **Data foundations for user-facing products**  
   Designing schemas, APIs, and data flows that make product behavior easier to observe, analyze, and improve.
@@ -31,9 +39,9 @@ Double majoring in Biochemistry and Computer Science at Yonsei University, I com
 - **Reliable engineering around data**  
   Practicing database modeling, validation, logging, caching, and deployment basics to keep services understandable and maintainable.
 
----
+<p align="center"><code>◆◇◆</code></p>
 
-### 🛠 Tech Stack
+### >_ Tech Stack
 
 **Languages & Core** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java_21-007396?style=flat-square&logo=openjdk&logoColor=white)
@@ -59,11 +67,11 @@ Double majoring in Biochemistry and Computer Science at Yonsei University, I com
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
+<p align="center"><code>◆◇◆</code></p>
 
-### 📌 Featured Projects
+### >_ Featured Projects
 
-#### [the_fluff_road — AI-based Pet Recommendation & Community](https://github.com/ParkGyuweon/the_fluff_road)
+#### [01] [the_fluff_road — AI-based Pet Recommendation & Community](https://github.com/ParkGyuweon/the_fluff_road)
 
 A map-based pet-friendly place discovery service where users can search facilities, share reviews, report place information, and receive AI-assisted recommendations.
 
@@ -84,7 +92,7 @@ A map-based pet-friendly place discovery service where users can search faciliti
 - Supported trust-building features such as receipt verification, user reports, admin approval, and place data correction
 - Added district/category visualizations so service data could be inspected beyond individual place pages
 
-#### [bbanggeut — Motion Recognition & AI Diary Care Service](https://github.com/ParkGyuweon/bbanggeut)
+#### [02] [bbanggeut — Motion Recognition & AI Diary Care Service](https://github.com/ParkGyuweon/bbanggeut)
 
 A child-care service that turns screen time into motion-based play, then converts play records and child conversations into diaries and parent reports.
 
@@ -103,7 +111,7 @@ A child-care service that turns screen time into motion-based play, then convert
 - Worked in a multi-service environment using React, Spring Boot, FastAPI, Redis, Docker, Jenkins, AWS, and Grafana
 - Integrated frontend screens with AI and backend services while keeping the user journey centered on play, conversation, diary, and report loops
 
-#### [multithreaded-http-proxy — HTTP Proxy Server](https://github.com/ParkGyuweon/multithreaded-http-proxy)
+#### [03] [multithreaded-http-proxy — HTTP Proxy Server](https://github.com/ParkGyuweon/multithreaded-http-proxy)
 
 A plain HTTP proxy server implemented with Python sockets and threads to practice low-level networking fundamentals.
 
@@ -118,9 +126,9 @@ A plain HTTP proxy server implemented with Python sockets and threads to practic
 - Covers TCP sockets, HTTP forwarding, shared state, locking, and defensive handling of malformed requests
 - Keeps the implementation small enough to inspect without framework noise
 
----
+<p align="center"><code>◆◇◆</code></p>
 
-### 🧪 Learning Direction
+### >_ Learning Direction
 
 I am currently strengthening the bridge between **data systems** and **AI product experience**:
 
@@ -130,9 +138,9 @@ I am currently strengthening the bridge between **data systems** and **AI produc
 - AX design: how AI outputs should appear, fail, and recover inside user workflows
 - System fundamentals: networking, operating systems, and algorithms as the base layer for reliable software
 
----
+<p align="center"><code>◆◇◆</code></p>
 
-### 🧩 Algorithm
+### >_ Algorithm
 
 <div align="center">
   <a href="https://solved.ac/rbdnjs7034">
@@ -140,9 +148,9 @@ I am currently strengthening the bridge between **data systems** and **AI produc
   </a>
 </div>
 
----
+<p align="center"><code>◆◇◆</code></p>
 
-### 📜 Certificates & Awards
+### >_ Certificates & Awards
 
 - **2026.06.** SSAFY 1st Semester Excellence Award — Seoul Class 3 Rank 1
 - **2026.05.** SQL 개발자(SQLD)
@@ -154,12 +162,14 @@ I am currently strengthening the bridge between **data systems** and **AI produc
 - **2023.02.** Yonsei University Academic Excellence Award
 - **2022.08.** Yonsei University Academic Excellence Award
 
----
+<p align="center"><code>◆◇◆</code></p>
 
-### 🗂 Repository Map
+### >_ Repository Map
 
 - **Data / AI / AX**: recommendation services, AI-assisted workflows, motion-recognition product experiences
 - **Engineering Fundamentals**: algorithms, HTTP proxying, networking, database modeling, deployment basics
 - **Product Context**: projects built around real users, behavior, reports, admin flows, and service feedback loops
+
+<p align="center"><code>[ end of file ]</code></p>
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=0:63A4FF,100:83EAF1&width=100%&height=100&section=footer&reversal=true)
