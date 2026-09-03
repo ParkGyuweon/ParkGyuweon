@@ -1,0 +1,55 @@
+<svg width="1200" height="150" viewBox="0 0 1200 150" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Gyuweon Park blue pixel footer</title>
+  <desc id="desc">A blue pixel-style footer for a GitHub profile README.</desc>
+  <rect width="1200" height="150" fill="#0B1736"/>
+  <defs>
+    <linearGradient id="footerBg" x1="0" y1="0" x2="1200" y2="150" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#83EAF1"/>
+      <stop offset="0.5" stop-color="#4F8CFF"/>
+      <stop offset="1" stop-color="#102A56"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="150" fill="url(#footerBg)" opacity="0.9"/>
+  <g opacity="0.72">
+    <rect x="0" y="0" width="40" height="40" fill="#0B1736"/>
+    <rect x="40" y="0" width="40" height="24" fill="#102A56"/>
+    <rect x="80" y="0" width="40" height="56" fill="#0B1736"/>
+    <rect x="120" y="0" width="40" height="32" fill="#102A56"/>
+    <rect x="160" y="0" width="40" height="48" fill="#0B1736"/>
+    <rect x="200" y="0" width="40" height="28" fill="#102A56"/>
+    <rect x="240" y="0" width="40" height="52" fill="#0B1736"/>
+    <rect x="280" y="0" width="40" height="36" fill="#102A56"/>
+    <rect x="320" y="0" width="40" height="40" fill="#0B1736"/>
+    <rect x="360" y="0" width="40" height="24" fill="#102A56"/>
+    <rect x="400" y="0" width="40" height="56" fill="#0B1736"/>
+    <rect x="440" y="0" width="40" height="32" fill="#102A56"/>
+    <rect x="480" y="0" width="40" height="48" fill="#0B1736"/>
+    <rect x="520" y="0" width="40" height="28" fill="#102A56"/>
+    <rect x="560" y="0" width="40" height="52" fill="#0B1736"/>
+    <rect x="600" y="0" width="40" height="36" fill="#102A56"/>
+    <rect x="640" y="0" width="40" height="40" fill="#0B1736"/>
+    <rect x="680" y="0" width="40" height="24" fill="#102A56"/>
+    <rect x="720" y="0" width="40" height="56" fill="#0B1736"/>
+    <rect x="760" y="0" width="40" height="32" fill="#102A56"/>
+    <rect x="800" y="0" width="40" height="48" fill="#0B1736"/>
+    <rect x="840" y="0" width="40" height="28" fill="#102A56"/>
+    <rect x="880" y="0" width="40" height="52" fill="#0B1736"/>
+    <rect x="920" y="0" width="40" height="36" fill="#102A56"/>
+    <rect x="960" y="0" width="40" height="40" fill="#0B1736"/>
+    <rect x="1000" y="0" width="40" height="24" fill="#102A56"/>
+    <rect x="1040" y="0" width="40" height="56" fill="#0B1736"/>
+    <rect x="1080" y="0" width="40" height="32" fill="#102A56"/>
+    <rect x="1120" y="0" width="40" height="48" fill="#0B1736"/>
+    <rect x="1160" y="0" width="40" height="28" fill="#102A56"/>
+  </g>
+  <g opacity="0.35">
+    <rect x="80" y="92" width="16" height="16" fill="#B7F7FF"/>
+    <rect x="160" y="112" width="12" height="12" fill="#FFFFFF"/>
+    <rect x="250" y="86" width="20" height="20" fill="#83EAF1"/>
+    <rect x="930" y="92" width="16" height="16" fill="#B7F7FF"/>
+    <rect x="1010" y="112" width="12" height="12" fill="#FFFFFF"/>
+    <rect x="1110" y="86" width="20" height="20" fill="#83EAF1"/>
+  </g>
+  <text x="600" y="95" text-anchor="middle" fill="#FFFFFF" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="24" font-weight="700">[ end of file ]</text>
+  <text x="600" y="124" text-anchor="middle" fill="#D8FBFF" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="15">thanks for scrolling through my little data console</text>
+</svg>
