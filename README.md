@@ -28,6 +28,31 @@ Double majoring in Biochemistry and Computer Science at Yonsei University, I com
 
 <p align="center"><code>◆◇◆</code></p>
 
+### >_ Mini Quest Board
+
+```text
+┌────────────────────────────────────────────────────────────┐
+│  PLAYER  Gyuweon Park                                      │
+│  CLASS   Data Engineer in training / AX Builder            │
+│  THEME   blue pixel console                                │
+├────────────────────────────────────────────────────────────┤
+│  HP      ██████████  steady curiosity                      │
+│  EXP     ███████░░░  data flows + AI product experience    │
+│  MANA    ████████░░  Python · SQL · React · FastAPI        │
+├────────────────────────────────────────────────────────────┤
+│  MAIN QUEST                                                │
+│  > turn messy product data into useful AI experiences      │
+│                                                            │
+│  SIDE QUESTS                                               │
+│  > model user behavior                                     │
+│  > build recommendation logic                              │
+│  > design interfaces where AI feels understandable         │
+│  > keep the system reliable enough to trust                │
+└────────────────────────────────────────────────────────────┘
+```
+
+<p align="center"><code>◆◇◆</code></p>
+
 ### >_ What I Build Toward
 
 - **Data foundations for user-facing products**  
