@@ -81,16 +81,4 @@ Double majoring in Biochemistry and Computer Science at Yonsei University, I com
 - **[bbanggeut — Motion Recognition & AI Diary Care Service](https://github.com/ParkGyuweon/bbanggeut)**
   Led frontend implementation and frontend-backend integration for a child care service combining motion-recognition games, character conversation, child diary generation, and parent reports using React, TypeScript, MediaPipe, Spring Boot, FastAPI, Redis, Docker, Jenkins, AWS, and Grafana.
 
-- **[Multi-threaded HTTP Proxy Server](#)**
-  Implemented a concurrent HTTP proxy server using Python socket programming, featuring robust multi-client handling and URL/image filtering logic.
-
-- **[Linux Kernel & xv6 OS Extension](#)**
-  Developed a Linux kernel module to trace virtual-to-physical address translations. Extended the xv6 OS by implementing an EEVDF CPU scheduler and expanding on-disk file system structures.
-
-- **[CUDA & Triton GPU Programming](#)**
-  Optimized parallel computing workloads such as conv2d and parallel softmax using CUDA, and compared Triton and cuDNN performance to identify hardware bottlenecks.
-
-- **[scVI Probabilistic Model Analysis (Undergrad Research)](#)**
-  Analyzed the architecture and mathematical algorithms of the scVI deep learning model for noise correction in single-cell RNA sequencing data.
-
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=0:63A4FF,100:83EAF1&width=100%&height=100&section=footer&reversal=true)
