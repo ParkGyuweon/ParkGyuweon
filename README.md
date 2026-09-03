@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:83EAF1,100:63A4FF&height=300&section=header&text=Gyuweon%20Park&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=%3E_%20Data%20Engineering%20%7C%20AX%20%7C%20AI-powered%20Services&descSize=20&descAlignY=30)
+![header](./assets/blue-pixel-header.svg)
 
 <p align="center">
   <img src="https://img.shields.io/badge/%3E__data_flows-63A4FF?style=for-the-badge&labelColor=1B2A4A&color=63A4FF" />
@@ -170,6 +170,4 @@ I am currently strengthening the bridge between **data systems** and **AI produc
 - **Engineering Fundamentals**: algorithms, HTTP proxying, networking, database modeling, deployment basics
 - **Product Context**: projects built around real users, behavior, reports, admin flows, and service feedback loops
 
-<p align="center"><code>[ end of file ]</code></p>
-
-![footer](https://capsule-render.vercel.app/api?type=wave&color=0:63A4FF,100:83EAF1&width=100%&height=100&section=footer&reversal=true)
+![footer](./assets/blue-pixel-footer.svg)
