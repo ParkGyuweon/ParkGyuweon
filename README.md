@@ -63,29 +63,60 @@ Double majoring in Biochemistry and Computer Science at Yonsei University, I com
 
 ### 📌 Featured Projects
 
-- **[the_fluff_road — AI-based Pet Recommendation & Community](https://github.com/ParkGyuweon/the_fluff_road)**  
-  Built an AI-assisted recommendation/community service using place data, user context, Kakao APIs, weather API, OAuth, Gemini-based recommendation, receipt verification, admin tools, and data visualization.
+#### [the_fluff_road — AI-based Pet Recommendation & Community](https://github.com/ParkGyuweon/the_fluff_road)
 
-  **Data & AX points**
-  - Connected user context, place information, weather signals, and recommendation responses into a product flow
-  - Implemented service features around verification, administration, and visualization so data could support real user decisions
-  - Worked across API integration and interface behavior to make AI recommendations visible and usable
+A map-based pet-friendly place discovery service where users can search facilities, share reviews, report place information, and receive AI-assisted recommendations.
 
-- **[bbanggeut — Motion Recognition & AI Diary Care Service](https://github.com/ParkGyuweon/bbanggeut)**  
-  Led AX-focused frontend implementation and service integration for a child care product combining motion-recognition games, character conversation, child diary generation, and parent reports using React, TypeScript, MediaPipe, FastAPI, Redis, Docker, Jenkins, AWS, and Grafana.
+**My Role**
+- Implemented the Django/DRF service layer, recommendation flow, user/auth features, community APIs, admin tools, fixtures, and data visualization pages
+- Built AI features around personalized place recommendation, weather-aware home copy, and receipt-based visit verification
+- Integrated Kakao Map/Local APIs, weather API, OAuth, and Gemini through a shared service module
 
-  **Data & AX points**
-  - Designed user-facing flows around motion input, AI conversation, generated diary content, and guardian reports
-  - Integrated realtime interaction signals with service screens so children and parents could receive different experiences from the same product context
-  - Practiced deployment and monitoring tools to support a multi-service AI product environment
+**Data & AI Flow**
+- Modeled users, pets, places, reviews, posts, comments, reports, saved places, and recommendation relations
+- Managed fixture data for 208 pet-friendly facilities and used place/category/location attributes as service data
+- Built a two-step recommendation flow: content-based candidate retrieval from user likes/saves, followed by Gemini reranking and reason generation
+- Added safeguards for LLM output by restricting recommendation IDs to known candidates and falling back to rule-based results when parsing fails
+- Designed cache keys around user interaction counts so recommendation results refresh after likes or saves change
 
-- **[multithreaded-http-proxy — HTTP Proxy Server](https://github.com/ParkGyuweon/multithreaded-http-proxy)**  
-  Implemented a plain HTTP proxy server with Python sockets and threads, including request parsing, header rewriting, URL redirection, image filtering, and synchronized worker logs.
+**Product & AX Points**
+- Connected map search, filters, roadview thumbnails, reviews, place reports, and recommendations into one place-discovery journey
+- Supported trust-building features such as receipt verification, user reports, admin approval, and place data correction
+- Added district/category visualizations so service data could be inspected beyond individual place pages
 
-  **Engineering points**
-  - Practiced low-level TCP socket programming and HTTP request forwarding
-  - Handled shared state across worker threads with locks
-  - Kept the implementation dependency-free and easy to inspect
+#### [bbanggeut — Motion Recognition & AI Diary Care Service](https://github.com/ParkGyuweon/bbanggeut)
+
+A child-care service that turns screen time into motion-based play, then converts play records and child conversations into diaries and parent reports.
+
+**My Role**
+- Led frontend implementation for the child-facing and parent-facing product experience
+- Integrated motion-recognition games, character conversation, child diary screens, parent report screens, and profile flows
+- Worked across React, TypeScript, MediaPipe, backend APIs, and AI-server responses to connect realtime interaction with service screens
+
+**AX Flow**
+- Designed flows for four motion-based games: fruit slicing, picture matching, word matching, and recycling play
+- Connected webcam-based hand/arm recognition to interactions that children can understand without extra hardware
+- Organized the post-play experience from character conversation to diary creation and parent report review
+- Separated child and parent contexts so the same service data could become playful feedback for children and structured observation for guardians
+
+**Engineering Points**
+- Worked in a multi-service environment using React, Spring Boot, FastAPI, Redis, Docker, Jenkins, AWS, and Grafana
+- Integrated frontend screens with AI and backend services while keeping the user journey centered on play, conversation, diary, and report loops
+
+#### [multithreaded-http-proxy — HTTP Proxy Server](https://github.com/ParkGyuweon/multithreaded-http-proxy)
+
+A plain HTTP proxy server implemented with Python sockets and threads to practice low-level networking fundamentals.
+
+**What It Does**
+- Accepts multiple client connections with one worker thread per request
+- Parses HTTP requests, resolves target hosts, rewrites headers, and forwards responses back to clients
+- Supports configurable URL redirection and runtime image filtering through request keywords
+- Produces synchronized logs for request flow, response status, content type, and connection lifecycle
+
+**Why I Included It**
+- Shows systems-level understanding behind web services and data products
+- Covers TCP sockets, HTTP forwarding, shared state, locking, and defensive handling of malformed requests
+- Keeps the implementation small enough to inspect without framework noise
 
 ---
 
