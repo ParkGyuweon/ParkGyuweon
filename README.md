@@ -58,7 +58,7 @@ Double majoring in Biochemistry and Computer Science at Yonsei University, I com
 
 ---
 
-### 📜 Certificates, Awards & Algorithm
+### 📜 Certificates & Awards
 
 - **2026.06.** SSAFY 1st Semester Excellence Award — Seoul Class 3 Rank 1
 - **2026.05.** SQL 개발자(SQLD)
