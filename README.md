@@ -20,6 +20,19 @@ Double majoring in Biochemistry and Computer Science at Yonsei University, I com
 
 ---
 
+### 🧭 What I Build Toward
+
+- **Data foundations for user-facing products**  
+  Designing schemas, APIs, and data flows that make product behavior easier to observe, analyze, and improve.
+
+- **AI-powered service experiences**  
+  Connecting recommendation logic, user context, and interface design so AI features feel useful inside real workflows.
+
+- **Reliable engineering around data**  
+  Practicing database modeling, validation, logging, caching, and deployment basics to keep services understandable and maintainable.
+
+---
+
 ### 🛠 Tech Stack
 
 **Data & AI** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -48,6 +61,46 @@ Double majoring in Biochemistry and Computer Science at Yonsei University, I com
 
 ---
 
+### 📌 Featured Projects
+
+- **[the_fluff_road — AI-based Pet Recommendation & Community](https://github.com/ParkGyuweon/the_fluff_road)**  
+  Built an AI-assisted recommendation/community service using place data, user context, Kakao APIs, weather API, OAuth, Gemini-based recommendation, receipt verification, admin tools, and data visualization.
+
+  **Data & AX points**
+  - Connected user context, place information, weather signals, and recommendation responses into a product flow
+  - Implemented service features around verification, administration, and visualization so data could support real user decisions
+  - Worked across API integration and interface behavior to make AI recommendations visible and usable
+
+- **[bbanggeut — Motion Recognition & AI Diary Care Service](https://github.com/ParkGyuweon/bbanggeut)**  
+  Led AX-focused frontend implementation and service integration for a child care product combining motion-recognition games, character conversation, child diary generation, and parent reports using React, TypeScript, MediaPipe, FastAPI, Redis, Docker, Jenkins, AWS, and Grafana.
+
+  **Data & AX points**
+  - Designed user-facing flows around motion input, AI conversation, generated diary content, and guardian reports
+  - Integrated realtime interaction signals with service screens so children and parents could receive different experiences from the same product context
+  - Practiced deployment and monitoring tools to support a multi-service AI product environment
+
+- **[multithreaded-http-proxy — HTTP Proxy Server](https://github.com/ParkGyuweon/multithreaded-http-proxy)**  
+  Implemented a plain HTTP proxy server with Python sockets and threads, including request parsing, header rewriting, URL redirection, image filtering, and synchronized worker logs.
+
+  **Engineering points**
+  - Practiced low-level TCP socket programming and HTTP request forwarding
+  - Handled shared state across worker threads with locks
+  - Kept the implementation dependency-free and easy to inspect
+
+---
+
+### 🧪 Learning Direction
+
+I am currently strengthening the bridge between **data systems** and **AI product experience**:
+
+- Data modeling for user behavior, recommendation inputs, and service events
+- SQL fundamentals for querying, aggregation, joins, and validation
+- Pipeline thinking: how raw product data becomes usable signals
+- AX design: how AI outputs should appear, fail, and recover inside user workflows
+- System fundamentals: networking, operating systems, and algorithms as the base layer for reliable software
+
+---
+
 ### 🧩 Algorithm
 
 <div align="center">
@@ -72,12 +125,10 @@ Double majoring in Biochemistry and Computer Science at Yonsei University, I com
 
 ---
 
-### 📌 Featured Projects
+### 🗂 Repository Map
 
-- **[the_fluff_road — AI-based Pet Recommendation & Community](https://github.com/ParkGyuweon/the_fluff_road)**
-  Built an AI-assisted recommendation/community service using place data, user context, Kakao APIs, weather API, OAuth, Gemini-based recommendation, receipt verification, admin tools, and data visualization.
-
-- **[bbanggeut — Motion Recognition & AI Diary Care Service](https://github.com/ParkGyuweon/bbanggeut)**
-  Led AX-focused frontend implementation and service integration for a child care product combining motion-recognition games, character conversation, child diary generation, and parent reports using React, TypeScript, MediaPipe, FastAPI, Redis, Docker, Jenkins, AWS, and Grafana.
+- **Data / AI / AX**: recommendation services, AI-assisted workflows, motion-recognition product experiences
+- **Engineering Fundamentals**: algorithms, HTTP proxying, networking, database modeling, deployment basics
+- **Product Context**: projects built around real users, behavior, reports, admin flows, and service feedback loops
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=0:63A4FF,100:83EAF1&width=100%&height=100&section=footer&reversal=true)
