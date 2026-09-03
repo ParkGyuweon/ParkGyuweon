@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:83EAF1,100:63A4FF&height=300&section=header&text=Gyuweon%20Park&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20and%20AX%20Enthusiast&descSize=20&descAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:83EAF1,100:63A4FF&height=300&section=header&text=Gyuweon%20Park&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Data%20Engineering%20%7C%20Backend%20%7C%20AX&descSize=20&descAlignY=30)
 
 ### 🎧 Now Playing
 
@@ -8,10 +8,13 @@
 
 ### 👋 About Me
 
-I am a Backend Developer and AX (AI eXperience) enthusiast aiming to enhance user convenience through seamless and intelligent system design. Double majoring in Biochemistry and Computer Science at Yonsei University, I combine analytical problem-solving with robust software engineering.
+I am a developer interested in **Data Engineering, Backend Architecture, and AX (AI eXperience)**.  
+I like turning raw data and user behavior into reliable services, from database modeling and API design to recommendation logic and AI-powered product flows.
 
-- 🔭 Focus: **Backend Architecture, AX (AI eXperience), Database Modeling**
-- 🌱 Learning: System design, DevOps fundamentals, AI-driven data pipelines
+Double majoring in Biochemistry and Computer Science at Yonsei University, I combine analytical problem-solving with practical software engineering.
+
+- 🔭 Focus: **Data Engineering, Backend Architecture, AX, Database Modeling**
+- 🌱 Learning: Distributed data processing, system design, DevOps fundamentals, AI-driven product pipelines
 - 📫 Contact: rbdnjs9@gmail.com / rbdnjs7034@naver.com
 - 💼 LinkedIn: [https://www.linkedin.com/in/gyuweon-park/](#)
 
@@ -20,18 +23,27 @@ I am a Backend Developer and AX (AI eXperience) enthusiast aiming to enhance use
 ### 🛠 Tech Stack
 
 **Languages & Core** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java_21-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **Backend & Frameworks** ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**Frontend** ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+**Frontend & AX** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
 
 **Database, OS & Tools** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
@@ -47,25 +59,43 @@ I am a Backend Developer and AX (AI eXperience) enthusiast aiming to enhance use
 
 ---
 
-### 📜 Certificates & Algorithm
+### 📜 Certificates, Awards & Algorithm
 
+- **2026.06.** SSAFY 1st Semester Excellence Award — Seoul Class 3 Rank 1
 - **2026.05.** SQL 개발자(SQLD)
 - **2026.04.** 삼성 SW 역량테스트 A+
+- **2026.02.** Yonsei University Academic Excellence Award
+- **2026.01.** SW Coding Certificate
 - **2025.09.** OPIc(English) IM2
 - **2025.08.** TOEIC 855
+- **2023.02.** Yonsei University Academic Excellence Award
+- **2022.08.** Yonsei University Academic Excellence Award
 
 ---
 
 ### 📌 Featured Projects
 
-- **[AI-based Pet Recommendation & Community](#)**
-  A comprehensive platform providing AI-driven pet recommendations and community features, built using Django and Vue.js (CDN integration).
+- **[the_fluff_road — AI-based Pet Recommendation & Community](https://github.com/ParkGyuweon/the_fluff_road)**
+  Built the backend and AI features for a pet-friendly place recommendation/community service with Django, DRF, Vue, Kakao APIs, weather API, OAuth, Gemini-based recommendation, receipt verification, admin tools, and data visualization.
+
+- **[bbanggeut — Motion Recognition & AI Diary Care Service](https://github.com/ParkGyuweon/bbanggeut)**
+  Led frontend implementation and frontend-backend integration for a child care service combining motion-recognition games, character conversation, child diary generation, and parent reports using React, TypeScript, MediaPipe, Spring Boot, FastAPI, Redis, Docker, Jenkins, AWS, and Grafana.
+
+- **[muplay_recommendation_service — Musical & Theater Recommendation](https://github.com/ParkGyuweon/muplay_recommendation_service)**
+  Designed a personalized performance recommendation service using user taste, current booking data, synopsis data, and audience-review sources from booking platforms, blogs, and social channels.
+
+- **[DB Study](https://github.com/ParkGyuweon/DB)**
+  Practiced SQL querying, aggregation, joins, transactions, and Django ORM relationship modeling across 1:N, M:N, ownership, likes, follows, subscriptions, orders, and event participation.
+
 - **[Multi-threaded HTTP Proxy Server](#)**
   Implemented a concurrent HTTP proxy server using Python socket programming, featuring robust multi-client handling and URL/image filtering logic.
+
 - **[Linux Kernel & xv6 OS Extension](#)**
   Developed a Linux kernel module to trace virtual-to-physical address translations. Extended the xv6 OS by implementing an EEVDF CPU scheduler and expanding on-disk file system structures.
+
 - **[CUDA & Triton GPU Programming](#)**
-  Optimized parallel computing workloads (conv2d, parallel softmax) using CUDA. Conducted comparative performance analysis between Triton and cuDNN to identify hardware bottlenecks.
+  Optimized parallel computing workloads such as conv2d and parallel softmax using CUDA, and compared Triton and cuDNN performance to identify hardware bottlenecks.
+
 - **[scVI Probabilistic Model Analysis (Undergrad Research)](#)**
   Analyzed the architecture and mathematical algorithms of the scVI deep learning model for noise correction in single-cell RNA sequencing data.
 
