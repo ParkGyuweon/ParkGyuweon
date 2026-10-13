@@ -84,6 +84,11 @@ Double majoring in Biochemistry and Computer Science at Yonsei University, I com
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
 
+**Data & Streaming** ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
 **Database, OS & Tools** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
@@ -96,7 +101,34 @@ Double majoring in Biochemistry and Computer Science at Yonsei University, I com
 
 ### >_ Featured Projects
 
-#### [01] [the_fluff_road — AI-based Pet Recommendation & Community](https://github.com/ParkGyuweon/the_fluff_road)
+#### [01] [HWABUN — Shared Data Infrastructure & Recommendation Platform for Small Beauty Brands](https://github.com/ParkGyuweon/hwabun)
+
+> SSAFY 2nd-semester project (2026.08 – 2026.10) · **Final presentation, Seoul Class 3 Rank 1** · 6-person team, my role: **AI / Recommendation & Data Simulation**
+
+An integrated beauty mall where many small brands share one analytics infrastructure. Shoppers' behavior is collected as 43 event types, flows through Kafka and Spark into marts and a DW, and comes back as personalized recommendations for shoppers and insight dashboards for brands.
+
+`Behavior log (43 events)` → `Kafka (3 partitions)` → `Spark Q1–Q5 (25 marts, 171 quality checks)` → `DW (MySQL)` → `Dashboard / Recommendation`
+
+**My Role**
+- Built the recommendation model and the realtime FastAPI recommendation server (24 routes) that the shop backend proxies
+- Built the traffic that validated the whole pipeline: a persona-based behavior log generator and LLM browser agents
+- Owned the product feature contract, vocabulary, and registration flow so newly registered products join recommendations immediately
+
+**Data Flow & Simulation**
+- Generated **~10.49M synthetic behavior events** from **9,900 personas** derived from 844K real Sephora reviews, using the same event envelope as the frontend logger so all traffic shares one schema downstream
+- Ran **100 LLM agents** (Playwright + GPT) that operate the real shop in a browser, exercising the production frontend logger end to end
+- Subscribed to the `activity-events` Kafka topic as a separate consumer group to update per-session state in realtime; profiled and removed a log-parsing bottleneck (1,000 → 35,000 events/s locally)
+- Read the DW `user_trait_daily` table to attach long-term user traits to recommendation responses
+- Traced Spark data-quality (Q5) violations back to their sources by matching mart grain (product · date · exploded items · seeded rows) — fixed generator-side root causes
+- Load-tested the deployed pipeline: **16,000 events/s sustained for 10 minutes with 0 rejections** against a 2,000 TPS target
+
+**Recommendation & Evaluation**
+- 148-dim product vectors (8 multi-hot blocks + scalar) with document-frequency block weights
+- Combined content-based similarity, persona-attribute affinity, and item co-occurrence CF with a **Learning-to-Rank** model (HistGradientBoosting, 20 features, trained on 383,967 rows); training and serving share one feature module
+- Designed an offline protocol on real purchase histories with **three holdout sets (10,400 users)** — choose on one, confirm on another — to avoid overfitting to a single test set
+- **Recall@10 23.4% (CBF) → 38.2% (+CF) → 43.8% (LTR)**, about 4× the popularity baseline (10.8%)
+
+#### [02] [the_fluff_road — AI-based Pet Recommendation & Community](https://github.com/ParkGyuweon/the_fluff_road)
 
 A map-based pet-friendly place discovery service where users can search facilities, share reviews, report place information, and receive AI-assisted recommendations.
 
@@ -117,7 +149,7 @@ A map-based pet-friendly place discovery service where users can search faciliti
 - Supported trust-building features such as receipt verification, user reports, admin approval, and place data correction
 - Added district/category visualizations so service data could be inspected beyond individual place pages
 
-#### [02] [bbanggeut — Motion Recognition & AI Diary Care Service](https://github.com/ParkGyuweon/bbanggeut)
+#### [03] [bbanggeut — Motion Recognition & AI Diary Care Service](https://github.com/ParkGyuweon/bbanggeut)
 
 A child-care service that turns screen time into motion-based play, then converts play records and child conversations into diaries and parent reports.
 
@@ -136,7 +168,7 @@ A child-care service that turns screen time into motion-based play, then convert
 - Worked in a multi-service environment using React, Spring Boot, FastAPI, Redis, Docker, Jenkins, AWS, and Grafana
 - Integrated frontend screens with AI and backend services while keeping the user journey centered on play, conversation, diary, and report loops
 
-#### [03] [multithreaded-http-proxy — HTTP Proxy Server](https://github.com/ParkGyuweon/multithreaded-http-proxy)
+#### [04] [multithreaded-http-proxy — HTTP Proxy Server](https://github.com/ParkGyuweon/multithreaded-http-proxy)
 
 A plain HTTP proxy server implemented with Python sockets and threads to practice low-level networking fundamentals.
 
@@ -177,6 +209,8 @@ I am currently strengthening the bridge between **data systems** and **AI produc
 
 ### >_ Certificates & Awards
 
+- **2026.10.** SSAFY 2nd Semester Project (HWABUN) — Final Presentation, Seoul Class 3 Rank 1
+- **2026.09.** 정보처리기사 (Engineer Information Processing)
 - **2026.06.** SSAFY 1st Semester Excellence Award — Seoul Class 3 Rank 1
 - **2026.05.** SQL 개발자(SQLD)
 - **2026.04.** 삼성 SW 역량테스트 A+
