@@ -1,42 +1,42 @@
-<svg width="920" height="548" viewBox="0 0 920 548" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="quest-title quest-desc">
+<svg width="920" height="512" viewBox="0 0 920 512" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="quest-title quest-desc">
   <title id="quest-title">Gyuweon Park - Mini Quest Board</title>
   <desc id="quest-desc">박규원, 데이터 엔지니어 / AX 빌더. HP: 꺼지지 않는 호기심. EXP: 데이터 흐름과 AI 제품 경험. MANA: Python, SQL, Kafka, Spark. 메인 퀘스트: 흩어진 행동 데이터를 쓸모 있는 신호로 바꾸기. 사이드 퀘스트: 사용자 행동을 로그로 설계하기, 믿을 수 있는 데이터 파이프라인 만들기, 추천 로직을 오프라인으로 검증하기, AI 결과가 이해되는 화면 설계하기.</desc>
   <g shape-rendering="crispEdges">
-    <rect x="1" y="1" width="918" height="546" fill="#07142F" stroke="#63A4FF" stroke-width="2"/>
-    <path d="M1 140H919M1 272H919" stroke="#63A4FF" stroke-width="2"/>
+    <rect x="1" y="1" width="918" height="510" fill="#07142F" stroke="#63A4FF" stroke-width="2"/>
+    <path d="M1 104H919M1 236H919" stroke="#63A4FF" stroke-width="2"/>
     <defs>
       <path id="meter-full" d="M144 0H158V18H144ZM162 0H176V18H162ZM180 0H194V18H180ZM198 0H212V18H198ZM216 0H230V18H216ZM234 0H248V18H234ZM252 0H266V18H252ZM270 0H284V18H270ZM288 0H302V18H288ZM306 0H320V18H306Z" fill="#183A64"/>
     </defs>
-    <use href="#meter-full" y="158"/>
-    <use href="#meter-full" y="194"/>
-    <use href="#meter-full" y="230"/>
-    <path d="M144 158H158V176H144ZM162 158H176V176H162ZM180 158H194V176H180ZM198 158H212V176H198ZM216 158H230V176H216ZM234 158H248V176H234ZM252 158H266V176H252ZM270 158H284V176H270ZM288 158H302V176H288ZM306 158H320V176H306Z" fill="#83EAF1"/>
-    <path d="M144 194H158V212H144ZM162 194H176V212H162ZM180 194H194V212H180ZM198 194H212V212H198ZM216 194H230V212H216ZM234 194H248V212H234ZM252 194H266V212H252Z" fill="#63A4FF"/>
-    <path d="M144 230H158V248H144ZM162 230H176V248H162ZM180 230H194V248H180ZM198 230H212V248H198ZM216 230H230V248H216ZM234 230H248V248H234ZM252 230H266V248H252ZM270 230H284V248H270Z" fill="#83EAF1"/>
+    <g transform="translate(0 -36)">
+      <use href="#meter-full" y="158"/>
+      <use href="#meter-full" y="194"/>
+      <use href="#meter-full" y="230"/>
+      <path d="M144 158H158V176H144ZM162 158H176V176H162ZM180 158H194V176H180ZM198 158H212V176H198ZM216 158H230V176H216ZM234 158H248V176H234ZM252 158H266V176H252ZM270 158H284V176H270ZM288 158H302V176H288ZM306 158H320V176H306Z" fill="#83EAF1"/>
+      <path d="M144 194H158V212H144ZM162 194H176V212H162ZM180 194H194V212H180ZM198 194H212V212H198ZM216 194H230V212H216ZM234 194H248V212H234ZM252 194H266V212H252Z" fill="#63A4FF"/>
+      <path d="M144 230H158V248H144ZM162 230H176V248H162ZM180 230H194V248H180ZM198 230H212V248H198ZM216 230H230V248H216ZM234 230H248V248H234ZM252 230H266V248H252ZM270 230H284V248H270Z" fill="#83EAF1"/>
+    </g>
   </g>
-  <g font-family="Consolas, 'Cascadia Code', 'Malgun Gothic', 'Noto Sans KR', monospace" font-size="20" letter-spacing="0">
-    <g fill="#63A4FF" font-weight="700">
+  <g font-family="'Noto Sans KR', Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif" font-size="20" font-weight="400" letter-spacing="0">
+    <g fill="#63A4FF" font-size="18" font-weight="600">
       <text x="30" y="46">PLAYER</text>
       <text x="30" y="82">CLASS</text>
-      <text x="30" y="118">THEME</text>
-      <text x="30" y="176">HP</text>
-      <text x="30" y="212">EXP</text>
-      <text x="30" y="248">MANA</text>
-      <text x="30" y="308">MAIN QUEST</text>
-      <text x="30" y="386">SIDE QUESTS</text>
+      <text x="30" y="140">HP</text>
+      <text x="30" y="176">EXP</text>
+      <text x="30" y="212">MANA</text>
+      <text x="30" y="272">MAIN QUEST</text>
+      <text x="30" y="350">SIDE QUESTS</text>
     </g>
     <g fill="#EAF6FF">
       <text x="144" y="46">박규원 (Gyuweon Park)</text>
       <text x="144" y="82">데이터 엔지니어 / AX 빌더</text>
-      <text x="144" y="118">blue pixel console</text>
-      <text x="346" y="176">꺼지지 않는 호기심</text>
-      <text x="346" y="212">데이터 흐름 + AI 제품 경험</text>
-      <text x="346" y="248">Python · SQL · Kafka · Spark</text>
-      <text x="30" y="340">&gt; 흩어진 행동 데이터를 쓸모 있는 신호로 바꾸기</text>
-      <text x="30" y="418">&gt; 사용자 행동을 로그로 설계하기</text>
-      <text x="30" y="450">&gt; 믿을 수 있는 데이터 파이프라인 만들기</text>
-      <text x="30" y="482">&gt; 추천 로직을 오프라인으로 검증하기</text>
-      <text x="30" y="514">&gt; AI 결과가 이해되는 화면 설계하기</text>
+      <text x="346" y="140">꺼지지 않는 호기심</text>
+      <text x="346" y="176">데이터 흐름 + AI 제품 경험</text>
+      <text x="346" y="212">Python · SQL · Kafka · Spark</text>
+      <text x="30" y="304">&gt; 흩어진 행동 데이터를 쓸모 있는 신호로 바꾸기</text>
+      <text x="30" y="382">&gt; 사용자 행동을 로그로 설계하기</text>
+      <text x="30" y="414">&gt; 믿을 수 있는 데이터 파이프라인 만들기</text>
+      <text x="30" y="446">&gt; 추천 로직을 오프라인으로 검증하기</text>
+      <text x="30" y="478">&gt; AI 결과가 이해되는 화면 설계하기</text>
     </g>
   </g>
 </svg>
